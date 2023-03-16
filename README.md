@@ -26,7 +26,3 @@
 </li>
 </ul>
 
-<h2 align="center">UI of Web Application</h2>
-![This is an image](./calculator/public/i1.jpeg)
-![This is an image](./calculator/public/i2.jpeg)
-![This is an image](./calculator/public/i3.jpeg)
